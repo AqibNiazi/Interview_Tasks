@@ -43,4 +43,5 @@ function findLargestEvenSubarray(arr) {
   }
   
   console.log(findLargestEvenSubarray([1,2,3,4,5]));
+  console.log(findLargestEvenSubarray([1,2,3,5]));
   
